@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="hint_title">Titulo</string>
+    <string name="hint_text">Texto</string>
+</resources>
